@@ -8,5 +8,10 @@ Visual Representation:
 
 <img width="1352" height="1340" alt="image" src="https://github.com/user-attachments/assets/670580b9-0930-4115-afbe-ec30d65f8104" />
 
+BOM:
+
+Items |      Price and Link                                                    |   Manufacturers   |
+---------------------------------------------------------------------------------------------------
+PCB   |  https://robu.in/product/online-pcb-manufacturing-service/, 9.52 usd   |     Robu          |
 
 
