@@ -10,8 +10,8 @@ Visual Representation:
 
 BOM:
 
-Items |      Price and Link                                                    |   Manufacturers   |
----------------------------------------------------------------------------------------------------
-PCB   |  https://robu.in/product/online-pcb-manufacturing-service/, 9.52 usd   |     Robu          |
+|  Items |      Price and Link                                                    |   Manufacturers   |
+-------------------------------------------------------------------------------------------------------
+|  PCB   |  https://robu.in/product/online-pcb-manufacturing-service/, 9.52 usd   |     Robu          |
 
 
